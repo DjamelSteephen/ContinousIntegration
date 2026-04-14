@@ -86,7 +86,8 @@ jobs:
       run: python -m pytest test_app.py -v
 📸 Démonstration
 1️⃣ Configuration de la Protection de Branche
-<img width="967" height="819" alt="Capture d&#39;écran 2026-04-13 233404" src="https://github.com/user-attachments/assets/7a62b310-14ad-4f04-9362-da56849656fa" />
+<img width="967" height="819" alt="Capture d&#39;écran 2026-04-13 233404" src="https://github.com/user-attachments/assets/5b97d693-3a9d-4b9c-a7b1-334adc74bffa" />
+
 
 
 2️⃣ Test d'Échec - Code Cassé
