@@ -86,7 +86,9 @@ jobs:
       run: python -m pytest test_app.py -v
 📸 Démonstration
 1️⃣ Configuration de la Protection de Branche
-<img width="967" height="819" alt="Capture d'écran 2026-04-13 233404" src="https://github.com/user-attachments/assets/c8150367-958e-402e-8419-b96f16887ff4" /><img width="360" height="881" alt="Capture d'écran 2026-04-13 233634" src="https://github.com/user-attachments/assets/f78448de-4edc-44d4-b0dd-60b75e899e74" /><img width="968" height="659" alt="Capture d'écran 2026-04-13 234615" src="https://github.com/user-attachments/assets/eabdb1b5-a635-42d7-875d-73b0d4a2dce4" />
+<img width="967" height="819" alt="Capture d&#39;écran 2026-04-13 233404" src="https://github.com/user-attachments/assets/7a62b310-14ad-4f04-9362-da56849656fa" />
+
+
 2️⃣ Test d'Échec - Code Cassé
 Pull Request avec code contenant une erreur :
 
